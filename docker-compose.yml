@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  testdb:
+    image: mcr.microsoft.com/mssql/server:2017-latest-ubuntu
+    ports:
+      - "1433:1433"
+    environment:
+      ACCEPT_EULA: Y
+      SA_PASSWORD: yourStrong(!)Password
+      MSSQL_PID: Express

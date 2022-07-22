@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f9292a29_002De783_002D4102_002D8aaf_002D5c4d8b60705d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="It_Passes_RequestModel_To_Service" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::B11ADA78-D653-4235-92DB-53201816B17D::net5.0::Api.UnitTests.Features.Products.ProductsControllerSearchTests.It_Returns_500_If_DataRetrievalError_Occurred&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B11ADA78-D653-4235-92DB-53201816B17D::net5.0::Api.UnitTests.Features.Products.ProductsControllerCreateTests.It_Returns_The_Newly_Created_Product&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B11ADA78-D653-4235-92DB-53201816B17D::net5.0::Api.UnitTests.Features.Products.ProductsServiceTests_UpdateProduct.It_Returns_A_DataUpdateError_If_DataService_Returns_An_Error&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::B11ADA78-D653-4235-92DB-53201816B17D::net5.0::Api.UnitTests.Features.Products.ProductsServiceTests_UpdateProduct.It_Returns_InputValidationError_When_Input_Is_Invalid&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::580DCBF3-B3D9-428C-BF25-19E4656D3DFC::net5.0::Api.IntegrationTests.SmokeTests.I_Can_Ping_The_Api&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::580DCBF3-B3D9-428C-BF25-19E4656D3DFC::net5.0::Api.IntegrationTests.SmokeTests.Pinging_The_DbPing_Endpoint_Returns_If_It_Is_Possible_To_Connect&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::580DCBF3-B3D9-428C-BF25-19E4656D3DFC::net5.0::Api.IntegrationTests.Features.ProductSearchTests.It_Returns_All_Products_When_No_Criteria_Specified&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::580DCBF3-B3D9-428C-BF25-19E4656D3DFC::net5.0::Api.IntegrationTests.Features.ProductCreateTests.It_Creates_A_Product&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=910161f2_002De2c2_002D48d1_002Da5cd_002D9c9f153546a7_0023WebApplication1/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

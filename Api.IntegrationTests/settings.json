@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "SqlServer": "server=tcp:localhost;Database=MyRetail;User Id=sa;Password=yourStrong(!)Password;Pooling=False;Connection Timeout=9;"
+  }
+}
